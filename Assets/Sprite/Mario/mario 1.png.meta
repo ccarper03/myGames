@@ -1,0 +1,683 @@
+fileFormatVersion: 2
+guid: a549b0f880bcd48d4867b4949d1c16f0
+timeCreated: 1457451605
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: mario 1_0
+    21300002: mario 1_1
+    21300004: mario 1_2
+    21300006: mario 1_3
+    21300008: mario 1_4
+    21300010: mario 1_5
+    21300012: mario 1_6
+    21300014: mario 1_7
+    21300016: mario 1_8
+    21300018: mario 1_9
+    21300020: mario 1_10
+    21300022: mario 1_11
+    21300024: mario 1_12
+    21300026: mario 1_13
+    21300028: mario 1_14
+    21300030: mario 1_15
+    21300032: mario 1_16
+    21300034: mario 1_17
+    21300036: mario 1_18
+    21300038: mario 1_19
+    21300040: mario 1_20
+    21300042: mario 1_21
+    21300044: mario 1_22
+    21300046: mario 1_23
+    21300048: mario 1_24
+    21300050: mario 1_25
+    21300052: mario 1_26
+    21300054: mario 1_27
+    21300056: mario 1_28
+    21300058: mario 1_29
+    21300060: mario 1_30
+    21300062: mario 1_31
+    21300064: mario 1_32
+    21300066: mario 1_33
+    21300068: mario 1_34
+    21300070: mario 1_35
+    21300072: mario 1_36
+    21300074: mario 1_37
+    21300076: mario 1_38
+    21300078: mario 1_39
+    21300080: mario 1_40
+    21300082: mario 1_41
+    21300084: mario 1_42
+    21300086: mario 1_43
+    21300088: mario 1_44
+    21300090: mario 1_45
+    21300092: mario 1_46
+    21300094: mario 1_47
+    21300096: mario 1_48
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: mario 1_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 205
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mario 1_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 175
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mario 1_2
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 176
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mario 1_3
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 179
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 22.5}
+        - {x: -17, y: 18.5}
+        - {x: -17, y: -12.5}
+        - {x: -13, y: -22.5}
+        - {x: 17, y: -22.5}
+        - {x: 17, y: 21.5}
+        - {x: 16, y: 22.5}
+    - name: mario 1_4
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 219
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mario 1_5
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 216
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mario 1_6
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 219
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mario 1_7
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 219
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mario 1_8
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 219
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mario 1_9
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 219
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mario 1_10
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 219
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mario 1_11
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 219
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mario 1_12
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 204
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mario 1_13
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 201
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mario 1_14
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 204
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mario 1_15
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 204
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mario 1_16
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 204
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mario 1_17
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 204
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mario 1_18
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 204
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mario 1_19
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 204
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mario 1_20
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 204
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mario 1_21
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 204
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mario 1_22
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 204
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mario 1_23
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 182
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mario 1_24
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 188
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mario 1_25
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 186
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mario 1_26
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 188
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mario 1_27
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 189
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mario 1_28
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 189
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mario 1_29
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 189
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mario 1_30
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 189
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mario 1_31
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 189
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mario 1_32
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 172
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mario 1_33
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 173
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mario 1_34
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 174
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mario 1_35
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 174
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mario 1_36
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 121
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mario 1_37
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 121
+        width: 24
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mario 1_38
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 121
+        width: 27
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mario 1_39
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 121
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17.5, y: 20.5}
+        - {x: 14.5, y: 21.5}
+        - {x: -11.5, y: 21.5}
+        - {x: -17.5, y: 6.5}
+        - {x: -17.5, y: -21.5}
+        - {x: 17.5, y: -21.5}
+    - name: mario 1_40
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 121
+        width: 27
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mario 1_41
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 121
+        width: 24
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mario 1_42
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 60
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mario 1_43
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 61
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mario 1_44
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 61
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: 21.5}
+        - {x: -16.5, y: 18.5}
+        - {x: -16.5, y: -21.5}
+        - {x: 12.5, y: -21.5}
+        - {x: 16.5, y: -14.5}
+        - {x: 16.5, y: 18.5}
+        - {x: 10.5, y: 21.5}
+    - name: mario 1_45
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 61
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: 20.5}
+        - {x: -17.5, y: 11.5}
+        - {x: -17.5, y: -20.5}
+        - {x: 16.5, y: -20.5}
+        - {x: 17.5, y: -19.5}
+        - {x: 17.5, y: 18.5}
+        - {x: 16.5, y: 20.5}
+    - name: mario 1_46
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 60
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: 21.5}
+        - {x: -16.5, y: 18.5}
+        - {x: -16.5, y: -21.5}
+        - {x: 12.5, y: -21.5}
+        - {x: 16.5, y: -14.5}
+        - {x: 16.5, y: 18.5}
+        - {x: 10.5, y: 21.5}
+    - name: mario 1_47
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 60
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mario 1_48
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 5
+        width: 233
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -116.5, y: 19.5}
+        - {x: -116.5, y: -19.5}
+        - {x: 116.5, y: -19.5}
+        - {x: 116.5, y: 19.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
