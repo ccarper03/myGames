@@ -1,7 +1,8 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class Pickup : MonoBehaviour {
+public class Pickup : MonoBehaviour 
+{
 
 	// Use this for initialization
 	void Start () 
@@ -14,19 +15,11 @@ public class Pickup : MonoBehaviour {
 	{
 	
 	}
-	void OnTriggerEnter(Collider other) 
+	void OnTriggerEnter(Collider other)
 	{
-		if (other.gameobject.CompareTag("Pick Up"))
-		{
-			gameObject.SetActive(false);	
-		}
-	{
-}
-
-
-//		Destroy(other.gameObject);
-
-//		if (other.gameobject.CompareTag("Player"))
+//		if (other.gameobject.CompareTag ("Pick Up")) 
 //		{
-//			gameObject.SetActive(false);	
+//			gameObject.SetActive (false);	
 //		}
+	}
+}		
